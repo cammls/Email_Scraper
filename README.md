@@ -1,0 +1,1 @@
+This project is a little email scraper. Run "npm install" to install dependencies, then "node parser.js" to scrap the test.html file that contains the email. The resulting JSON will be in a file named "result.json" 
